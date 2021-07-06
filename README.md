@@ -1,14 +1,12 @@
 # Plantmanager
 
 <h1 align="center">
-    <img alt="PlantManager" src=".github/adaptive-icon.png" height="200px" />
+    <img alt="PlantManager" src="" height="200px" />
     <br>Next Level Week #5 - Trilha React Native<br/>
     TypeScript | Expo | React Native
 </h1>
 
 <p align="center">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/DanielAraldi/PlantManager?style=flat-square">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DanielAraldi/PlantManager?style=flat-square">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square"><br/>
 </p>    
 
@@ -27,6 +25,11 @@ O **PlantManager** é uma aplicação Mobile que tem como intuito cadastrar plan
 
 Projeto idealizado exclusivamente para o cuidado de plantas.
 
+## Layout mobile
+
+![Mobile 1](https://github.com/bryancury3r/PlantmanagerNlw/blob/main/images/mobile1.png) ![Mobile 2](https://github.com/bryancury3r/PlantmanagerNlw/blob/main/images/Screenshot%20from%202021-07-06%2020-26-37.png) ![Mobile 3](https://github.com/bryancury3r/PlantmanagerNlw/blob/main/images/mobile2.png) ![Mobile 4](https://github.com/bryancury3r/PlantmanagerNlw/blob/main/images/mobile5.png)
+
+
 Essa aplicação foi realizada durante a **Next Level Week #5**, projeto da [Rocketseat](https://rocketseat.com.br/).
 
 ## :rocket: Tecnologias Utilizadas
@@ -42,7 +45,7 @@ Essa aplicação foi realizada durante a **Next Level Week #5**, projeto da [Roc
 - [React Navigation](https://reactnavigation.org/)
 - [Typescript](https://www.typescriptlang.org/)
 
-## :boom: Como Executar
+## 💡 Como Executar
 
 - ### **Pré-requisitos**
 
@@ -54,7 +57,7 @@ Essa aplicação foi realizada durante a **Next Level Week #5**, projeto da [Roc
 1. Faça um clone do repositório:
 
 ```sh
-  $ git clone https://github.com/DanielAraldi/PlantManager.git
+  $ git clone https://github.com/bryancury3r/PlantmanagerNlw.git
 ```
 
 2. Executando a Aplicação:
